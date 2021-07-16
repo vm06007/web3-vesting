@@ -1,6 +1,6 @@
 # Create a contract with following functionality:
 
-## TOPIC: Vesting Tokens (Covertable to ETH)
+## TOPIC: Vesting Tokens (Convertable to ETH)
 ### Requirements:
 
 a. Contract should manage one specific Vesting token.
@@ -65,9 +65,10 @@ assuming there is a UNISWAP pair for the token, allow Recipient to choose withdr
 
 
 ###### BONUS POINTS: Try to solve this without (not using):
-a) SafeMath library
-b) ERC20 interface
-c) If/Else branching
+
+- a) SafeMath library
+- b) ERC20 interface
+- c) If/Else branching
 
 # UI
 
